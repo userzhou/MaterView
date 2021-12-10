@@ -1,0 +1,4 @@
+
+rootProject.name = "MaterView"
+include ':app'
+include ':MaterViewLib'
